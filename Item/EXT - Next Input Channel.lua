@@ -1,11 +1,18 @@
------------------------------------------------------------
--------------        Next Input Cannel        -------------
------------------------------------------------------------
--------  Outboarder        @2017       Reaper 5.50  -------
------------------------------------------------------------
+--[[
+Description: Next Input Channel 
+Instructions:
+Screenshot:
+Version: 1.0
+Author: Outboarder
+Changelog:
+REAPER: 5.40
+Licence: GPL v3
+--]]
 
-
-
+--[[
+Changelog:
++ Initial Release v1.0 (2017-04-01)
+--]]
 
 Count_Tracks = reaper.CountSelectedTracks(0)
 for i = 0 ,Count_Tracks-1 do
