@@ -1,3 +1,3 @@
-# ReaScripts by Outboarde
+## ReaScripts by Outboarder
 
-[## Wiki Page](https://github.com/Outboarder/ReaScripts/wiki/Hi-and-Welcome)
+* ### Scripts info and Animation Preview at [Wiki Page](https://github.com/Outboarder/ReaScripts/wiki/Hi-and-Welcome)
