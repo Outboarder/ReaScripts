@@ -19,4 +19,17 @@
       </version>
     </reapack>
   </category>
+  <metadata>
+    <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs32 ReaScripts by Outboarder\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab \b \fs28 Scripts info and Animation Preview at {\field{\*\fldinst{HYPERLINK "https://github.com/Outboarder/ReaScripts/wiki/Hi-and-Welcome"}}{\fldrslt{\ul
+Wiki Page
+}}}
+\sa180\par}
+}
+]]></description>
+  </metadata>
 </index>
