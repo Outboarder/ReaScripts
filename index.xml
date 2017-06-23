@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" commit="8f9c62a9885e685fffc5b684f965d8e69abfdab3" name="Outboarder">
+<index version="1" name="Outboarder" commit="8f9c62a9885e685fffc5b684f965d8e69abfdab3">
   <category name="Item">
     <reapack name="Outboarder - Trim left at edit cursor move edit cursor left by 2sec then play.lua" type="script" desc="Trim left at edit cursor move edit cursor left by 2sec">
       <version name="1.0" author="Outboarder" time="2017-06-22T06:38:30Z">
