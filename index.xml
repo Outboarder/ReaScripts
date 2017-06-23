@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" commit="8f9c62a9885e685fffc5b684f965d8e69abfdab3" name="Outboarder">
+  <category name="Item">
+    <reapack name="Outboarder - Trim left at edit cursor move edit cursor left by 2sec then play.lua" type="script" desc="Trim left at edit cursor move edit cursor left by 2sec">
+      <version name="1.0" author="Outboarder" time="2017-06-22T06:38:30Z">
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/b818d9462137c204f614e73b4f641183e2db4ac4/Item/Outboarder%20-%20Trim%20left%20at%20edit%20cursor%20move%20edit%20cursor%20left%20by%202sec%20then%20play.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Track">
+    <reapack name="Outboarder - Next Input Channel.lua" type="script" desc="Next Input Channel">
+      <version name="1.0" author="Outboarder" time="2017-06-22T06:45:31Z">
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/8f9c62a9885e685fffc5b684f965d8e69abfdab3/Track/Outboarder%20-%20Next%20Input%20Channel.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Outboarder - Previous Input Channel.lua" type="script" desc="Previous Input Channel">
+      <version name="1.0" author="Outboarder" time="2017-06-22T06:45:31Z">
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/8f9c62a9885e685fffc5b684f965d8e69abfdab3/Track/Outboarder%20-%20Previous%20Input%20Channel.lua</source>
+      </version>
+    </reapack>
+  </category>
+</index>
