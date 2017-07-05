@@ -1,4 +1,4 @@
 ### ReaScripts by Outboarder
 
 * ##### Animation Preview [Wiki](https://github.com/Outboarder/ReaScripts/wiki/Hi-and-Welcome)
-* ##### Repository https://github.com/Outboarder/ReaScripts/raw/master/index.xml
+* ##### Reapack Repository Link https://github.com/Outboarder/ReaScripts/raw/master/index.xml
