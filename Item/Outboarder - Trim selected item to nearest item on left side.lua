@@ -2,7 +2,6 @@
 --[[
 Description: Trim selected item to nearest item on left side
 Instructions:  SWS needed to run
-Screenshot: 
 Version: 1.0
 Author: Outboarder
 REAPER: 5.40
