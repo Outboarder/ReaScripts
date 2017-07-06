@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Outboarder Scripts" commit="4fc53d7d437a18fb3a04413e12ed54a09ca53b7e">
+<index version="1" name="Outboarder Scripts" commit="40b6eb7fdafc2d6f92139a91a7e1a709459e8a59">
   <category name="Cursor">
     <reapack name="Outboarder - Move Edit Cursor (x) ms.lua" type="script" desc="Move Edit Cursor (x) ms">
       <version name="1.0" author="Outboarder" time="2017-07-06T01:33:40Z">
@@ -52,6 +52,11 @@
     </reapack>
   </category>
   <category name="Track">
+    <reapack name="Outboarder - Copy TCP Vol-Pan to Send Vol-Pan(Edit for Instruction).lua" type="script" desc="Copy TCP Vol-Pan to Send Vol-Pan">
+      <version name="1.0" author="Outboarder" time="2017-07-06T03:50:48Z">
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/40b6eb7fdafc2d6f92139a91a7e1a709459e8a59/Track/Outboarder%20-%20Copy%20TCP%20Vol-Pan%20to%20Send%20Vol-Pan(Edit%20for%20Instruction).lua</source>
+      </version>
+    </reapack>
     <reapack name="Outboarder - Create Mono Send from selected tracks to track under mouse(increment send channel).lua" type="script" desc="Create Stereo Send from selected tracks to track under mouse (increment send channel)">
       <version name="1.0" author="Outboarder" time="2017-07-06T01:33:40Z">
         <source main="main">https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Track/Outboarder%20-%20Create%20Mono%20Send%20from%20selected%20tracks%20to%20track%20under%20mouse(increment%20send%20channel).lua</source>
@@ -59,7 +64,7 @@
     </reapack>
     <reapack name="Outboarder - Create Mono Send from track under mouse to selected tracks (increment send channel).lua" type="script" desc="Create Mono Send from track under mouse to selected tracks (increment send channel)">
       <version name="1.0" author="Outboarder" time="2017-07-06T01:33:40Z">
-        <source main="main">https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Track/Outboarder%20-%20Create%20Mono%20Send%20from%20track%20under%20mouse%20to%20selected%20tracks%20(increment%20send%20channel).lua</source>
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/40b6eb7fdafc2d6f92139a91a7e1a709459e8a59/Track/Outboarder%20-%20Create%20Mono%20Send%20from%20track%20under%20mouse%20to%20selected%20tracks%20(increment%20send%20channel).lua</source>
       </version>
     </reapack>
     <reapack name="Outboarder - Create Stereo Send from selected tracks to track under mouse(increment send channel).lua" type="script" desc="Create Stereo Send from selected tracks to track under mouse (increment send channel)">
@@ -69,7 +74,7 @@
     </reapack>
     <reapack name="Outboarder - Create Stereo Send from track under mouse to selected tracks (increment send channel).lua" type="script" desc="Create Stereo Send from track under mouse to selected tracks (increment send channel)">
       <version name="1.0" author="Outboarder" time="2017-07-06T01:33:40Z">
-        <source main="main">https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Track/Outboarder%20-%20Create%20Stereo%20Send%20from%20track%20under%20mouse%20to%20selected%20tracks%20(increment%20send%20channel).lua</source>
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/40b6eb7fdafc2d6f92139a91a7e1a709459e8a59/Track/Outboarder%20-%20Create%20Stereo%20Send%20from%20track%20under%20mouse%20to%20selected%20tracks%20(increment%20send%20channel).lua</source>
       </version>
     </reapack>
     <reapack name="Outboarder - Cycle Backward Arm and Monitor state thru selected tracks.lua" type="script" desc="Cycle Backward Arm and Monitor state thru selected tracks">
