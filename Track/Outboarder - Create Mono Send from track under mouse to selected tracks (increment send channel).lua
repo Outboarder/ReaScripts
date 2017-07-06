@@ -19,7 +19,7 @@ function Main()
 	S_track = reaper.BR_TrackAtMouseCursor()
 
 	if S_track then
-	  Last_send = reaper.GetTrackNumSends( S_track , 0 )-1
+	  Last_send = reaper.GetTrackNumSends( S_track , 0 )
 	  Ct = reaper.CountSelectedTracks( 0 )
 	  R_ch = 1023
 	  R_chM = -2
