@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Outboarder" commit="4fc53d7d437a18fb3a04413e12ed54a09ca53b7e">
+<index version="1" name="Outboarder Scripts" commit="4fc53d7d437a18fb3a04413e12ed54a09ca53b7e">
   <category name="Cursor">
     <reapack name="Outboarder - Move Edit Cursor (x) ms.lua" type="script" desc="Move Edit Cursor (x) ms">
       <version name="1.0" author="Outboarder" time="2017-07-06T01:33:40Z">
