@@ -1,9 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Outboarder" commit="8916a78ffafda7182210f5a5a07a8738b3b0f76d">
+<index version="1" name="Outboarder" commit="4fc53d7d437a18fb3a04413e12ed54a09ca53b7e">
+  <category name="Cursor">
+    <reapack name="Outboarder - Move Edit Cursor (x) ms.lua" type="script" desc="Move Edit Cursor (x) ms">
+      <version name="1.0" author="Outboarder" time="2017-07-06T01:33:40Z">
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Cursor/Outboarder%20-%20Move%20Edit%20Cursor%20(x)%20ms.lua</source>
+      </version>
+    </reapack>
+  </category>
   <category name="Item">
     <reapack name="Outboarder - Move items (overlap) Crossfade between selected items.lua" type="script" desc="Move items (overlap) Crossfade between selected items">
       <version name="1.0" author="Outboarder" time="2017-06-24T08:59:46Z">
         <source main="main">https://github.com/Outboarder/ReaScripts/raw/bfbef17bba7b066737316b77229a9ca7c4c4fc49/Item/Outboarder%20-%20Move%20items%20(overlap)%20Crossfade%20between%20selected%20items.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Outboarder - Move Selected Item(s) left by Loop Division.lua" type="script" desc="Move Selected Item(s) left by Time selection">
+      <version name="1.0" author="Outboarder" time="2017-07-06T01:33:40Z">
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Item/Outboarder%20-%20Move%20Selected%20Item(s)%20left%20by%20Loop%20Division.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Outboarder - Move Selected Item(s) right by Loop Division.lua" type="script" desc="Move Selected Item(s) Right by Time selection">
+      <version name="1.0" author="Outboarder" time="2017-07-06T01:33:40Z">
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Item/Outboarder%20-%20Move%20Selected%20Item(s)%20right%20by%20Loop%20Division.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Outboarder - Remove Silence Join Gaps (Selected Items).lua" type="script" desc="Remove Silence Join Gaps (Selected Items)">
+      <version name="1.0" author="Outboarder" time="2017-07-06T01:33:40Z">
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Item/Outboarder%20-%20Remove%20Silence%20Join%20Gaps%20(Selected%20Items).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Outboarder - Remove Silence Join Gaps and Glue (Selected Items).lua" type="script" desc="Remove Silence Join Gaps and Glue(Selected Items)">
+      <version name="1.0" author="Outboarder" time="2017-07-06T01:33:40Z">
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Item/Outboarder%20-%20Remove%20Silence%20Join%20Gaps%20and%20Glue%20(Selected%20Items).lua</source>
       </version>
     </reapack>
     <reapack name="Outboarder - Trim left at edit cursor move edit cursor left by 2sec then play.lua" type="script" desc="Trim left at edit cursor move edit cursor left by 2sec">
@@ -12,7 +39,39 @@
       </version>
     </reapack>
   </category>
+  <category name="Marker">
+    <reapack name="Outboarder - Insert Marker at Edit cursor  with custom Name and Color.lua" type="script" desc="Insert Marker at Edit cursor with Custom Name and Color">
+      <version name="1.0" author="Outboarder" time="2017-07-06T01:33:40Z">
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Marker/Outboarder%20-%20Insert%20Marker%20at%20Edit%20cursor%20%20with%20custom%20Name%20and%20Color.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Outboarder - Insert Marker at Play cursor  with custom Name and Color.lua" type="script" desc="Insert Marker at Play cursor with Custom Name and Color">
+      <version name="1.0" author="Outboarder" time="2017-07-06T01:33:40Z">
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Marker/Outboarder%20-%20Insert%20Marker%20at%20Play%20cursor%20%20with%20custom%20Name%20and%20Color.lua</source>
+      </version>
+    </reapack>
+  </category>
   <category name="Track">
+    <reapack name="Outboarder - Create Mono Send from selected tracks to track under mouse(increment send channel).lua" type="script" desc="Create Stereo Send from selected tracks to track under mouse (increment send channel)">
+      <version name="1.0" author="Outboarder" time="2017-07-06T01:33:40Z">
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Track/Outboarder%20-%20Create%20Mono%20Send%20from%20selected%20tracks%20to%20track%20under%20mouse(increment%20send%20channel).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Outboarder - Create Mono Send from track under mouse to selected tracks (increment send channel).lua" type="script" desc="Create Mono Send from track under mouse to selected tracks (increment send channel)">
+      <version name="1.0" author="Outboarder" time="2017-07-06T01:33:40Z">
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Track/Outboarder%20-%20Create%20Mono%20Send%20from%20track%20under%20mouse%20to%20selected%20tracks%20(increment%20send%20channel).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Outboarder - Create Stereo Send from selected tracks to track under mouse(increment send channel).lua" type="script" desc="Create Stereo Send from selected tracks to track under mouse (increment send channel)">
+      <version name="1.0" author="Outboarder" time="2017-07-06T01:33:40Z">
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Track/Outboarder%20-%20Create%20Stereo%20Send%20from%20selected%20tracks%20to%20track%20under%20mouse(increment%20send%20channel).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Outboarder - Create Stereo Send from track under mouse to selected tracks (increment send channel).lua" type="script" desc="Create Stereo Send from track under mouse to selected tracks (increment send channel)">
+      <version name="1.0" author="Outboarder" time="2017-07-06T01:33:40Z">
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Track/Outboarder%20-%20Create%20Stereo%20Send%20from%20track%20under%20mouse%20to%20selected%20tracks%20(increment%20send%20channel).lua</source>
+      </version>
+    </reapack>
     <reapack name="Outboarder - Cycle Backward Arm and Monitor state thru selected tracks.lua" type="script" desc="Cycle Backward Arm and Monitor state thru selected tracks">
       <version name="1.0" author="Outboarder" time="2017-06-25T03:21:44Z">
         <source main="main">https://github.com/Outboarder/ReaScripts/raw/8916a78ffafda7182210f5a5a07a8738b3b0f76d/Track/Outboarder%20-%20Cycle%20Backward%20Arm%20and%20Monitor%20state%20thru%20selected%20tracks.lua</source>
@@ -103,6 +162,16 @@
         <source main="main">https://github.com/Outboarder/ReaScripts/raw/8916a78ffafda7182210f5a5a07a8738b3b0f76d/Track/Outboarder%20-%20Cycle%20Forward%20Volume%20value%20thru%20selected%20tracks.lua</source>
       </version>
     </reapack>
+    <reapack name="Outboarder - Freeze Tracks Custom Item color TCP-MCP layout.lua" type="script" desc="Freeze Tracks custom Item color and TCP-MCP layout">
+      <version name="1.0" author="Outboarder" time="2017-07-06T01:33:40Z">
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Track/Outboarder%20-%20Freeze%20Tracks%20Custom%20Item%20color%20TCP-MCP%20layout.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Outboarder - Freeze Tracks Custom TCP layout and Item color.lua" type="script" desc="Freeze Tracks custom Item color and TCP layout">
+      <version name="1.0" author="Outboarder" time="2017-07-06T01:33:40Z">
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Track/Outboarder%20-%20Freeze%20Tracks%20Custom%20TCP%20layout%20and%20Item%20color.lua</source>
+      </version>
+    </reapack>
     <reapack name="Outboarder - Next Input Channel.lua" type="script" desc="Next Input Channel">
       <version name="1.0" author="Outboarder" time="2017-06-22T06:45:31Z">
         <source main="main">https://github.com/Outboarder/ReaScripts/raw/8f9c62a9885e685fffc5b684f965d8e69abfdab3/Track/Outboarder%20-%20Next%20Input%20Channel.lua</source>
@@ -111,6 +180,23 @@
     <reapack name="Outboarder - Previous Input Channel.lua" type="script" desc="Previous Input Channel">
       <version name="1.0" author="Outboarder" time="2017-06-22T06:45:31Z">
         <source main="main">https://github.com/Outboarder/ReaScripts/raw/8f9c62a9885e685fffc5b684f965d8e69abfdab3/Track/Outboarder%20-%20Previous%20Input%20Channel.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Outboarder - UnFreeze Tracks Custom TCP layout.lua" type="script" desc="UnFreeze Tracks custom TCP layout">
+      <version name="1.0" author="Outboarder" time="2017-07-06T01:33:40Z">
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Track/Outboarder%20-%20UnFreeze%20Tracks%20Custom%20TCP%20layout.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Outboarder - UnFreeze Tracks Custom TCP-MCP layout.lua" type="script" desc="UnFreeze Tracks custom TCP-MCP layout">
+      <version name="1.0" author="Outboarder" time="2017-07-06T01:33:40Z">
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Track/Outboarder%20-%20UnFreeze%20Tracks%20Custom%20TCP-MCP%20layout.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Utility">
+    <reapack name="Outboarder - Note Name Text Generator.lua" type="script" desc="Note Name Text Generator">
+      <version name="1.0" author="Outboarder" time="2017-07-06T01:33:40Z">
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Utility/Outboarder%20-%20Note%20Name%20Text%20Generator.lua</source>
       </version>
     </reapack>
   </category>
