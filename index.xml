@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Outboarder Scripts" commit="155e6ee7237aeee44d97462b2b3b8270a05786b8">
+<index version="1" name="Outboarder Scripts" commit="0c95565bacf9785a7052644db6b2b264565dfc68">
   <category name="Cursor">
     <reapack name="Outboarder - Move Edit Cursor (x) ms.lua" type="script" desc="Move Edit Cursor (x) ms">
       <version name="1.0" author="Outboarder" time="2017-07-06T01:33:40Z">
@@ -72,6 +72,21 @@
         <source main="main">https://github.com/Outboarder/ReaScripts/raw/40b6eb7fdafc2d6f92139a91a7e1a709459e8a59/Track/Outboarder%20-%20Create%20Mono%20Send%20from%20track%20under%20mouse%20to%20selected%20tracks%20(increment%20send%20channel).lua</source>
       </version>
     </reapack>
+    <reapack name="Outboarder - Create Stereo Send from selected tracks to track under mouse (via channel 1-2).lua" type="script" desc="Create Stereo Send from selected tracks to track under mouse (via channel 1-2)">
+      <version name="1.0" author="Outboarder" time="2017-07-09T16:06:41Z">
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/0c95565bacf9785a7052644db6b2b264565dfc68/Track/Outboarder%20-%20Create%20Stereo%20Send%20from%20selected%20tracks%20to%20track%20under%20mouse%20(via%20channel%201-2).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Outboarder - Create Stereo Send from selected tracks to track under mouse (via channel 3-4).lua" type="script" desc="Create Stereo Send from selected tracks to track under mouse (via channel 3-4)">
+      <version name="1.0" author="Outboarder" time="2017-07-09T16:06:41Z">
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/0c95565bacf9785a7052644db6b2b264565dfc68/Track/Outboarder%20-%20Create%20Stereo%20Send%20from%20selected%20tracks%20to%20track%20under%20mouse%20(via%20channel%203-4).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Outboarder - Create Stereo Send from selected tracks to track under mouse (via channel 5-6).lua" type="script" desc="Create Stereo Send from selected tracks to track under mouse (via channel 5-6)">
+      <version name="1.0" author="Outboarder" time="2017-07-09T16:06:41Z">
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/0c95565bacf9785a7052644db6b2b264565dfc68/Track/Outboarder%20-%20Create%20Stereo%20Send%20from%20selected%20tracks%20to%20track%20under%20mouse%20(via%20channel%205-6).lua</source>
+      </version>
+    </reapack>
     <reapack name="Outboarder - Create Stereo Send from selected tracks to track under mouse(increment send channel).lua" type="script" desc="Create Stereo Send from selected tracks to track under mouse (increment send channel)">
       <version name="1.0" author="Outboarder" time="2017-07-06T01:33:40Z">
         <source main="main">https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Track/Outboarder%20-%20Create%20Stereo%20Send%20from%20selected%20tracks%20to%20track%20under%20mouse(increment%20send%20channel).lua</source>
@@ -80,6 +95,16 @@
     <reapack name="Outboarder - Create Stereo Send from track under mouse to selected tracks (increment send channel).lua" type="script" desc="Create Stereo Send from track under mouse to selected tracks (increment send channel)">
       <version name="1.0" author="Outboarder" time="2017-07-06T01:33:40Z">
         <source main="main">https://github.com/Outboarder/ReaScripts/raw/40b6eb7fdafc2d6f92139a91a7e1a709459e8a59/Track/Outboarder%20-%20Create%20Stereo%20Send%20from%20track%20under%20mouse%20to%20selected%20tracks%20(increment%20send%20channel).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Outboarder - Create Stereo Send from track under mouse to selected tracks (via channel 3-4).lua" type="script" desc="Create Stereo Send from track under mouse to selected tracks (via channel 3-4)">
+      <version name="1.0" author="Outboarder" time="2017-07-09T16:06:41Z">
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/0c95565bacf9785a7052644db6b2b264565dfc68/Track/Outboarder%20-%20Create%20Stereo%20Send%20from%20track%20under%20mouse%20to%20selected%20tracks%20(via%20channel%203-4).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Outboarder - Create Stereo Send from track under mouse to selected tracks (via channel 5-6).lua" type="script" desc="Create Stereo Send from track under mouse to selected tracks (via channel 5-6)">
+      <version name="1.0" author="Outboarder" time="2017-07-09T16:06:41Z">
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/0c95565bacf9785a7052644db6b2b264565dfc68/Track/Outboarder%20-%20Create%20Stereo%20Send%20from%20track%20under%20mouse%20to%20selected%20tracks%20(via%20channel%205-6).lua</source>
       </version>
     </reapack>
     <reapack name="Outboarder - Cycle Backward Arm and Monitor state thru selected tracks.lua" type="script" desc="Cycle Backward Arm and Monitor state thru selected tracks">
