@@ -1,9 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Outboarder Scripts" commit="0c95565bacf9785a7052644db6b2b264565dfc68">
+<index version="1" name="Outboarder Scripts" commit="089c072e60847b91f11ddf1867774ba22e5caf7c">
   <category name="Cursor">
     <reapack name="Outboarder - Move Edit Cursor (x) ms.lua" type="script" desc="Move Edit Cursor (x) ms">
       <version name="1.0" author="Outboarder" time="2017-07-06T01:33:40Z">
         <source main="main">https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Cursor/Outboarder%20-%20Move%20Edit%20Cursor%20(x)%20ms.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Outboarder - Move Edit Cursor Left By 10 ms.lua" type="script" desc="Move Edit Cursor Left By 10 ms">
+      <version name="1.0" author="Outboarder" time="2017-07-09T16:12:51Z">
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/089c072e60847b91f11ddf1867774ba22e5caf7c/Cursor/Outboarder%20-%20Move%20Edit%20Cursor%20Left%20By%2010%20ms.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Outboarder - Move Edit Cursor Left By 100 ms.lua" type="script" desc="Move Edit Cursor Left By 100 ms">
+      <version name="1.0" author="Outboarder" time="2017-07-09T16:12:51Z">
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/089c072e60847b91f11ddf1867774ba22e5caf7c/Cursor/Outboarder%20-%20Move%20Edit%20Cursor%20Left%20By%20100%20ms.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Outboarder - Move Edit Cursor Left By 5 ms.lua" type="script" desc="Move Edit Cursor Left By 5 ms">
+      <version name="1.0" author="Outboarder" time="2017-07-09T16:12:51Z">
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/089c072e60847b91f11ddf1867774ba22e5caf7c/Cursor/Outboarder%20-%20Move%20Edit%20Cursor%20Left%20By%205%20ms.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Outboarder - Move Edit Cursor Left By 50 ms .lua" type="script" desc="Move Edit Cursor Left By 50 ms">
+      <version name="1.0" author="Outboarder" time="2017-07-09T16:12:51Z">
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/089c072e60847b91f11ddf1867774ba22e5caf7c/Cursor/Outboarder%20-%20Move%20Edit%20Cursor%20Left%20By%2050%20ms%20.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Outboarder - Move Edit Cursor Right By 10 ms.lua" type="script" desc="Move Edit Cursor Right By 10 ms">
+      <version name="1.0" author="Outboarder" time="2017-07-09T16:12:51Z">
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/089c072e60847b91f11ddf1867774ba22e5caf7c/Cursor/Outboarder%20-%20Move%20Edit%20Cursor%20Right%20By%2010%20ms.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Outboarder - Move Edit Cursor Right By 100 ms.lua" type="script" desc="Move Edit Cursor Right By 100 ms">
+      <version name="1.0" author="Outboarder" time="2017-07-09T16:12:51Z">
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/089c072e60847b91f11ddf1867774ba22e5caf7c/Cursor/Outboarder%20-%20Move%20Edit%20Cursor%20Right%20By%20100%20ms.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Outboarder - Move Edit Cursor Right By 5 ms.lua" type="script" desc="Move Edit Cursor Right By 5 ms">
+      <version name="1.0" author="Outboarder" time="2017-07-09T16:12:51Z">
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/089c072e60847b91f11ddf1867774ba22e5caf7c/Cursor/Outboarder%20-%20Move%20Edit%20Cursor%20Right%20By%205%20ms.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Outboarder - Move Edit Cursor Right By 50 ms.lua" type="script" desc="Move Edit Cursor Right By 50 ms">
+      <version name="1.0" author="Outboarder" time="2017-07-09T16:12:51Z">
+        <source main="main">https://github.com/Outboarder/ReaScripts/raw/089c072e60847b91f11ddf1867774ba22e5caf7c/Cursor/Outboarder%20-%20Move%20Edit%20Cursor%20Right%20By%2050%20ms.lua</source>
       </version>
     </reapack>
   </category>
